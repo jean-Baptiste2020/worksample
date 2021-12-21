@@ -5,7 +5,7 @@ Ruby on Rails is good at doing the manual work for you. With just one line, Rail
 
 So this cheat sheet will help to avoid these conflicts.
 
-- [ ] Plural
+- [ ] Plural:
 ```
     - Controller
     - Migrations/Tables
@@ -14,7 +14,7 @@ So this cheat sheet will help to avoid these conflicts.
     - View
 ```
 
-- [ ] Singular
+- [ ] Singular:
 ```
     - Model
     - Scaffold
