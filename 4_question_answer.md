@@ -7,15 +7,15 @@ So this cheat sheet will help to avoid these conflicts.
 
 - [ ] Plural
 ```
-- Controller
-- Migrations/Tables
-- Routes
-- Seed Data
+-Controller
+-Migrations/Tables
+-Routes
+-Seed Data
 -View
 ```
 
 - [ ] Singular
 ```
-- Model
-- Scaffold
+-Model
+-Scaffold
 ```
